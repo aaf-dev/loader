@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header">Изучайте актуальные темы</string>
+    <plurals name="courses_counter">
+        <item quantity="zero">%d курсов</item>
+        <item quantity="one">%d курс</item>
+        <item quantity="few">%d курса</item>
+        <item quantity="many">%d курсов</item>
+        <item quantity="other">%d курсов</item>
+    </plurals>
+</resources>
